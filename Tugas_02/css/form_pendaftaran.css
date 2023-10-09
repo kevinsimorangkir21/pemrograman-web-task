@@ -87,10 +87,11 @@ input[type=radio] {
     color: #fff;
     border: none;
     cursor: pointer;
+    border-radius: 5px;
 }
 
 .form-submit button:hover {
-    background-color: #008272;
+    background-color: #000000;
 }
 
 @media(max-width: 768px) {
