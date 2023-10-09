@@ -18,7 +18,7 @@ div {
 
 .header {
     width: 100%;
-    background-color: royalblue;
+    background-color: #0B6623;
     text-align: center;
     padding: 20px 0;
     color: #fff;
@@ -83,7 +83,7 @@ input[type=radio] {
 
 .form-submit button {
     padding: 14px 38px;
-    background-color: #006DB2;
+    background-color: #0B6623;
     color: #fff;
     border: none;
     cursor: pointer;
