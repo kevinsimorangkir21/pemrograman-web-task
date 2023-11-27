@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Tulis File |Kevin Simorangkir</title>
+    <title>Tulis File | BXE.Vin</title>
 </head>
 <body>
     <h1>Tulis File</h1>
