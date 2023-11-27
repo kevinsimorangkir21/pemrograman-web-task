@@ -9,7 +9,7 @@
     <table border="1">
         <thead>
             <tr>
-                <th>NPM</th>
+                <th>NIM</th>
                 <th>Nama</th>
                 <th>Email</th>
                 <th>Alamat</th>
@@ -18,8 +18,8 @@
         <tbody>
             <?php
                 $data = array(
-                    array("12345", "John Doe", "johndoe@example.com", "Jl. Merdeka 123"),
-                    array("67890", "Jane Doe", "janedoe@example.com", "Jl. Kemerdekaan 456"),
+                    array("121140000", "Lorem", "lorem@example.com", "Jl. Merdeka 123"),
+                    array("121140000", "Ipsum", "ipsum@example.com", "Jl. Kemerdekaan 456"),
                 );
 
                 foreach ($data as $row) {

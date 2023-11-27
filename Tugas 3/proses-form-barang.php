@@ -6,7 +6,7 @@
 
         if ($gambar["error"] == 0) {
             $nama_file = uniqid() . "." . $gambar["type"];
-            move_uploaded_file($gambar["tmp_name"], "./images/{$nama_file}");
+            move_uploaded_file($gambar["tmp_name"], "./upload/{$nama_file}");
         } else {
             $nama_file = "";
         }
@@ -15,7 +15,7 @@
             <h1>Hasil</h1>
             <p>Nama Barang: <b>{$nama_barang}</b></p>
             <p>Harga: <b>{$harga}</b></p>
-            <p>Gambar: <img src='./images/{$nama_file}'></p>
+            <p>Gambar: <img src='./images/produk/{$nama_file}'></p>
         ";
     }
 ?>
