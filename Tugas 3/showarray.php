@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Tampilkan Array</h1>
-    <table border="1">
+    <table border="2">
         <thead>
             <tr>
                 <th>NIM</th>
@@ -18,6 +18,8 @@
         <tbody>
             <?php
                 $data = array(
+                    array("121140000", "Lorem", "lorem@example.com", "Jl. Merdeka 123"),
+                    array("121140000", "Ipsum", "ipsum@example.com", "Jl. Kemerdekaan 456"),
                     array("121140000", "Lorem", "lorem@example.com", "Jl. Merdeka 123"),
                     array("121140000", "Ipsum", "ipsum@example.com", "Jl. Kemerdekaan 456"),
                 );

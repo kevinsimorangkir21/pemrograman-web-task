@@ -1,8 +1,12 @@
+<!-- Kevin Simorangkir
+121140150
+RC -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Form Input Barang</title>
+    <title>Form Input Barang | Kevin Simorangkir</title>
 </head>
 <body>
     <h1>Form Input Barang</h1>

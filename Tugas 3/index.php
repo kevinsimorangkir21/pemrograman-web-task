@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Halaman Utama</title>
+    <title>Halaman Utama | Kevin Simorangkir</title>
 </head>
 <body>
     <h1>Halaman Utama</h1>
-    <p>
-        <a href="showarray.php">Tampilkan Array</a>
-        <a href="form-input-barang.php">Form Input Barang</a>
+    <p>Selamat datang di dalam Website kami ya!
+        <a href="showarray.php">Data Mahasiswa UNG</a>
+        <a href="form-input-barang.php">Formulir Input Barang</a>
         <a href="tulis-file.php">Tulis File</a>
     </p>
 </body>
